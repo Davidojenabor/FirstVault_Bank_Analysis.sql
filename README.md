@@ -109,4 +109,15 @@ USE firstvault_bank;
 
 ![High Balance Accounts](High-Balance-Accounts.png)
 
-###
+### Loan Default Flag
+
+![Loan Default Flag](Loan-Default-Flag.png)
+
+### Total Deposits vs Withdrawals
+
+![Total Deposits vs Withdrawals
+](Total-Deposits-vs-Withdrawals.png)
+
+### Top 5 Customers by Transaction Volume
+
+![Top 5 Customers by Transaction Volume](Top-5-Customers-by-Transaction-Volume.png)
