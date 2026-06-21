@@ -104,3 +104,7 @@ USE firstvault_bank;
 ---
 
 ##📸Query Results
+
+### High Balance Accounts
+
+![High Balance Accounts](Best-Selling-Products.png)
