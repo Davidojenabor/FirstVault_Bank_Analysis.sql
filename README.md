@@ -107,4 +107,4 @@ USE firstvault_bank;
 
 ### High Balance Accounts
 
-![High Balance Accounts](Best-Selling-Products.png)
+![High Balance Accounts](High_Balance_Accounts_100606.png)
